@@ -6,8 +6,6 @@
 
 <h3 align="center">Full-stack developer focused on automation and cloud architecture. Love building things that scale.</h3>
 
-<br/>
-
 <div align="center">
  
  🔨 Working on **an AI tool that clips podcasts automatically**
@@ -16,7 +14,7 @@
 
 🤔 Happy to chat about **web development, Python, or deploying stuff to the cloud**
 
- </div>
+</div>
  
 <div align="center"> 
   <a href="mailto:kulkarniojas027@gmail.com">
@@ -30,20 +28,18 @@
   </a>
 </div>
 
- <hr/>
+<hr/>
  
 <h2 align="center">🧰 Tech I Work With</h2>
-<br/>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,js,java,ts,nextjs,react,flask,nodejs" />
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,pytorch,git,vscode,tailwind,postgres" /><br>
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,pytorch,git,vscode,tailwind,postgres" />
 </div>
 
-<br/>
 <hr/>
 
 <h2 align="center">🚀 What I've Built</h2>
-<br/>
 
 <table align="center">
 <tr>
@@ -87,7 +83,7 @@
 <hr/>
 
 <h2 align="center">📊 GitHub Activity</h2>
-<br>
+
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ojask99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=ojask99&theme=tokyonight&hide_border=true" />
@@ -97,10 +93,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ojask99&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
-<br/>
+<hr/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ojask99&theme=tokyonight&no-frame=true&column=7" width="100%"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
+  
+  *Thanks for stopping by! Feel free to reach out if you want to build something cool together* 🚀
 </div>
-
-<br/><br/>
