@@ -1,113 +1,84 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ojask99.ojask99" />
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=00D9FF&width=500&height=70&duration=2000&lines=Hey+There!+👋;I'm+Ojas+Kulkarni;ML+Enthusiast+%26+Developer;" />
-</h1>
-
-<h3 align="center">Computer Science student at VIT, Vellore. Passionate about building AI-powered applications and scalable web solutions that make a difference.</h3>
-
-<br/>
+## hey, i'm ojas 👋
 
 <div align="center">
- 
- 🔭 I'm currently working on **AI-powered podcast clipping tools**
- 
- 🌱 I'm currently learning **LangChain, Serverless Architecture, AWS**
- 
- 💬 Ask me about **Python, Next.js, ML Pipelines, or anything tech!**
- 
- ⚡ Fun fact: **7th largest contributor to ExamCooker (10K+ users!)**
- 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:kulkarniojas027@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/ojas-kulkarni-23a381283/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://github.com/ojask99" target="_blank">
-     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=600&lines=building+stuff+with+AI+and+code;ml+enthusiast+from+mumbai;always+learning+something+new;open+source+contributor" alt="Typing SVG" />
 </div>
 
-<hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,html,css,react,nextjs" />
-    <img src="https://skillicons.dev/icons?i=flask,pytorch,tensorflow,aws,gcp,docker,git,vscode" /><br>
-</div>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<br/>
-<hr/>
+### about me:
+- 🎓 cs student @ vit vellore
+- 🤖 love tinkering with **ml models** and **llm integrations**
+- 🌐 build web apps with **next.js** and **python**
+- ☁️ currently obsessed with **serverless** and **aws**
+- 📚 contributed to **examcooker** (10k+ users use it!)
+- 🎯 **sih 2024 finalist** with an ai healthcare project
 
-<h2 align="center">🚀 What I've Been Building 🚀</h2>
-<br/>
+### what i'm up to:
+```python
+currently_working_on = {
+    "project": "ai podcast clipping tool",
+    "tech": ["next.js", "python", "aws", "gemini"],
+    "status": "making it faster and cheaper"
+}
 
-<div align="center">
-<table>
-<tr>
-<td width="50%">
+learning = ["langchain", "serverless architecture", "cost optimization"]
+ask_me_about = ["ml pipelines", "web development", "open source"]
+```
 
-### 🎙️ **Shortscut**
-*AI-Powered Podcast Clipping Tool*
+### things i've built:
 
-**What it does:** Automatically finds viral-worthy clips from podcasts using AI in under 2 minutes!
+#### 🎙️ shortscut
+ai-powered podcast clipping - finds viral moments in under 2 minutes  
+`next.js` `python` `aws s3` `serverless`  
+→ [frontend](https://github.com/ojask99/shortscut-frontend) | [backend](https://github.com/ojask99/shortscut-backend)
 
-**Cool tech:** Next.js + Python + AWS S3 + Gemini Vision + Serverless magic ✨
+#### 🏥 healthaware  
+ai diagnostics platform with 6 ml models (sih 2024 finalist)  
+`next.js` `flask` `pytorch` `gcp`  
+→ [check it out](https://github.com/ojask99/healthaware)
 
-[![Frontend](https://img.shields.io/badge/Frontend-Next.js-black?style=flat-square&logo=next.js)](https://github.com/ojask99/shortscut-frontend)
-[![Backend](https://img.shields.io/badge/Backend-Python-blue?style=flat-square&logo=python)](https://github.com/ojask99/shortscut-backend)
+#### 📚 examcooker
+open source exam papers platform (10k+ students use it!)  
+`typescript` `react` `community driven`  
+→ [acm-vit project](https://github.com/ACM-VIT/ExamCooker-2024)
 
-</td>
-<td width="50%">
+---
 
-### 🏥 **HealthAware**
-*AI Medical Diagnostics Platform*
+**languages & tools:**
 
-**What it does:** 6 ML models working together to diagnose TB, kidney stones, and COVID-19!
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+</p>
 
-**Achievement:** Smart India Hackathon 2024 Finalist 🏆
+---
 
-**Tech stack:** Next.js + Flask + PyTorch + Google Cloud
-
-[![Repository](https://img.shields.io/badge/Repository-GitHub-green?style=flat-square&logo=github)](https://github.com/ojask99/healthaware)
-
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
-<hr/>
+**github stats:**
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ojask99/ojask99/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ojask99&show_icons=true&locale=en&layout=compact&theme=dark" alt="ojask99" />
 </div>
 
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ojask99&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ojask99&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ojask99&theme=dark" alt="ojask99" />
 </div>
 
-<br/><br/>
+---
 
-<hr/>
+**find me here:**
+- 💼 [linkedin](https://linkedin.com/in/ojas-kulkarni-23a381283)
+- 📧 [email](mailto:kulkarniojas027@gmail.com)
+- 🐦 dm me if you want to collab on something cool!
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&color=00D9FF&width=600&height=50&duration=4000&lines=Thanks+for+visiting!+✨;Star+some+repos+if+you+find+them+cool!;Happy+Coding!+🚀" />
-</h3>
-
-<br/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ojask99&color=blueviolet" alt="profile views" />
+</div>
