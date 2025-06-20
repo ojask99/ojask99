@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🛠️ Currently building **Shortscut - AI podcast clipping tool**
+ 🔨 Working on **an AI tool that clips podcasts automatically**
  
- 📖 Learning **LangChain, AWS serverless, cost optimization**
+ 📚 Exploring **serverless patterns and making things cost-efficient**
 
-💭 Ask me about **Next.js, Python backends, cloud deployment**
+🤔 Happy to chat about **web development, Python, or deploying stuff to the cloud**
 
  </div>
  
@@ -25,7 +25,7 @@
   <a href="https://linkedin.com/in/ojas-kulkarni-23a381283" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/ojask99" target="_blank">
+  <a href="https://x.com/OjasKulkarni12" target="_blank">
      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </div>
@@ -90,7 +90,7 @@
 <br>
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ojask99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ojask99&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=ojask99&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
