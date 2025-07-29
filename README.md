@@ -48,7 +48,7 @@
 **🎙️ Shortscut**  
 *Finds viral podcast moments in <2min*
 
-[![Code](https://img.shields.io/badge/View_Code-black?style=for-the-badge&logo=github)](https://github.com/ojask99/shortscut)
+[![Code](https://img.shields.io/badge/View_Code-black?style=for-the-badge&logo=github)](https://github.com/ojask99/shortscut-frontend)
 
 </td>
 <td align="center" width="300">
