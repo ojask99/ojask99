@@ -66,7 +66,7 @@
 **📚 ExamCooker**  
 *Exam prep platform for students*
 
-[![Open Source](https://img.shields.io/badge/Open_Source-green?style=for-the-badge&logo=github)](https://github.com/acm-vit/examcooker)
+[![Open Source](https://img.shields.io/badge/Open_Source-green?style=for-the-badge&logo=github)](https://github.com/ACM-VIT/ExamCooker-2024)
 
 </td>
 <td align="center" width="300">
